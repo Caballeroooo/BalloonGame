@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db5787182e5491048a36e7462e094a19, type: 3}
+  m_Name: GameplaySettings
+  m_EditorClassIdentifier: 
+  _tutorialBalloonSpeed: 2.5
+  _maxComboForBonus: 10
+  _missForGameOver: 5
+  _criticalTimerNormalizedValue: 0.2
+  _configs:
+  - _upperScoreBound: 10
+    _balloonsSpeed:
+      _min: 2.5
+      _max: 4
+    _balloonsSpawnTime:
+      _min: 0.7
+      _max: 1.2
+  - _upperScoreBound: 25
+    _balloonsSpeed:
+      _min: 3
+      _max: 5
+    _balloonsSpawnTime:
+      _min: 0.4
+      _max: 0.55
+  - _upperScoreBound: 50
+    _balloonsSpeed:
+      _min: 4
+      _max: 5
+    _balloonsSpawnTime:
+      _min: 0.3
+      _max: 0.4
+  - _upperScoreBound: 80
+    _balloonsSpeed:
+      _min: 4
+      _max: 5
+    _balloonsSpawnTime:
+      _min: 0.15
+      _max: 0.3
+  - _upperScoreBound: 120
+    _balloonsSpeed:
+      _min: 4.5
+      _max: 5.5
+    _balloonsSpawnTime:
+      _min: 0.1
+      _max: 0.27
+  - _upperScoreBound: 9999999
+    _balloonsSpeed:
+      _min: 9
+      _max: 10
+    _balloonsSpawnTime:
+      _min: 0.2
+      _max: 0.6

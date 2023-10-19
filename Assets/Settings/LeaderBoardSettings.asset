@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b17b969c196ce8468fa59bbb2ab3e96, type: 3}
+  m_Name: LeaderBoardSettings
+  m_EditorClassIdentifier: 
+  _configs:
+  - _guid: f606abe0-39ef-46d9-bb0d-2f49f8f6839b
+    _nickname: Dragonfly
+    _bestScore: 104
+  - _guid: 5f1726de-e522-4a79-938e-3442712664c4
+    _nickname: Gordo
+    _bestScore: 96
+  - _guid: a5f21406-885c-4ade-8eff-332660362630
+    _nickname: Lobster
+    _bestScore: 57
+  - _guid: 3894a8dc-e0fc-4b86-a235-a213eaa115f6
+    _nickname: Twinkly
+    _bestScore: 8
+  - _guid: faad0eea-f429-4bd3-9ec5-5bc01ef3ac06
+    _nickname: Itchy
+    _bestScore: 51
+  - _guid: 642bde72-fe37-4758-8e89-786ac2126ee8
+    _nickname: Daffodil
+    _bestScore: 102
+  - _guid: fed6b480-8133-40b0-852a-e15990bb7897
+    _nickname: Headlights
+    _bestScore: 74
+  - _guid: 847ec8c0-512c-4fff-812f-fc861047aa00
+    _nickname: Rockette
+    _bestScore: 116
+  - _guid: 63129316-93be-4ef5-956a-92b1be521096
+    _nickname: Buster
+    _bestScore: 116
+  - _guid: 884bb6fd-93d7-4671-99bc-7ce735c16e43
+    _nickname: Amiga
+    _bestScore: 74
+  - _guid: 9ce17cf2-3a52-45eb-baa4-89d49407b060
+    _nickname: Heisenberg
+    _bestScore: 41
+  - _guid: ff3311f5-faaa-4bc9-9f9a-f6bd01387e5c
+    _nickname: Bootsie
+    _bestScore: 7
+  - _guid: a75046d2-d971-4516-8678-a7ddaa9cf6fb
+    _nickname: Tough
+    _bestScore: 51
+  - _guid: 91ad8eee-ae8d-42e2-b344-236e8dabff4f
+    _nickname: Guy
+    _bestScore: 50
+  - _guid: 70e8a2ce-06ff-4f6d-8e33-92290d08817a
+    _nickname: Dimples
+    _bestScore: 85
+  - _guid: 82ec264d-b40e-4d4e-a5b5-cb30dd6b5e29
+    _nickname: Salt
+    _bestScore: 95
+  - _guid: ff286741-6a9b-47a8-b027-e2722b99e79c
+    _nickname: Mouse
+    _bestScore: 9
+  - _guid: c8a3c7d8-ac50-49c4-a368-f3a0f75b405f
+    _nickname: Fox
+    _bestScore: 81
+  - _guid: 0f970195-33cc-425a-8ba7-8736a1a00a7a
+    _nickname: Dragon
+    _bestScore: 27
+  _playerLineViewColor: {r: 0.39215687, g: 1, b: 0.5568628, a: 0.7921569}
+  _defaultLineViewColor: {r: 0.6784314, g: 0.6784314, b: 0.6784314, a: 0.7921569}
+  _bestScoreRange:
+    _min: 0
+    _max: 120

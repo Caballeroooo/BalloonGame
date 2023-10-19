@@ -1,0 +1,1 @@
+Очищать PlayerPrefs через меню "Caballeroooo/Clear PlayerPrefs"
